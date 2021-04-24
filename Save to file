@@ -1,0 +1,18 @@
+We just published our local git repo
+to remote Github.com repository
+Few thing happens :
+1. It automatically created new Remote Repo
+2. Made the connection with your local Repo
+3. Adde all your commits to remote you
+
+Now our work will continue locally
+
+1. add a new file called note.txt
+2.commited the change to local repo
+3.we want this change to be reflected in remote repository so we PUSHED local commits remote reposiry using pysh origin button
+4.Observe it has been added in your reposiry under Github.com
+
+How to save after adding some text in subline
+On mac Cammand + S
+On windoows control + S
+Or Click on file ---> Save
